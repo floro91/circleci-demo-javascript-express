@@ -31,7 +31,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 6. `npm run lint` - runs linter to check for lint errors
 
 ## File Structure
-
+huhu
 ### Webpack Configs
 
 MERN uses Webpack for bundling modules. There are four types of Webpack configs provided `webpack.config.dev.js` (for development), `webpack.config.prod.js` (for production), `webpack.config.server.js` (for bundling server in production) and `webpack.config.babel.js` (for [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) for server rendering of assets included through webpack).
